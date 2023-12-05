@@ -1,0 +1,20 @@
+body{
+    color: white;
+        background-color: black;
+}
+h1{
+    text-align: center;
+    color: steelblue;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid steelblue;
+}
+.pepp{
+    text-align: center;
+}
+.junin{
+    text-align: center;
+}

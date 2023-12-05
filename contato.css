@@ -1,0 +1,34 @@
+body{
+    color: steelblue;
+    background-color: black;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid steelblue;
+    float:left;
+}
+h1{
+    text-align: center;
+}
+.pepp{
+    margin: 80px 10px 10px 0;
+}
+.junin{
+    margin: 80px 10px 10px 0;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+}

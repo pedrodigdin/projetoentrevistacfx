@@ -1,0 +1,27 @@
+body{
+color: white;
+    background-color:black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+}
+img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    border: 5px solid steelblue;
+}
+.center{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: steelblue;
+}
+.nome{
+    color: steelblue;
+}
